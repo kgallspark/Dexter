@@ -1,0 +1,26 @@
+*PADS-ECO-V2007.0-MILS*
+*REMARK*  old file: C:\PADS Projects\ecogtmp0.asc
+*REMARK*  new file: H:\DataCore\HaddingtonDynamics\AlphaRelease\00121-B_IO_Motordrive\PCB\09051-00121-A_PCB\09011-00121-B.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 6/23/2015 10:24:34 AM
+*RENNET*
+N00024_1040  M3_PWR
+N00024_776  M5_PWR
+N00024_905  M4_PWR
+N00025_1468  M1_PWR
+N00046_1724  M2_PWR
+N00047_1026  N00683
+
+*REMARK*  Deleted pins: 0,  Added pins: 0
+*END*
+*PADS-ECO-V2007.0-MILS*
+
+*REMARK* -- 09051-00121-B.pcb -- Tue Jun 23 14:37:28 2015
+
+
+*DELPIN*
+D2.1    DGND
+
+*NET*
+*SIGNAL* MGND 10
+C41.2 D2.1
+*END*

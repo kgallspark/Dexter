@@ -1,0 +1,901 @@
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+
+Reporting Net Names
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC2
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+
+Reporting Net Names
+    M1_OUT2A
+    N00005
+    N00007
+    N00003
+    M2_OUT1B
+    N00042
+    N00043
+    N00048
+    N00040
+    N00041
+    N00045
+    N00047
+    M1_OUT1B
+    M1_OUT1A
+    N00010
+    N00006
+    N00009
+    N00008
+    N00004
+    M1_OUT2B
+    N00013
+    M3_OUT2B
+    N00018
+    M3_OUT1A
+    M3_OUT2A
+    M3_OUT1B
+    N00012
+    N00017
+    N00011
+    N00015
+    N00014
+    N00016
+    M2_OUT2B
+    M2_OUT2A
+    M2_OUT1A
+    N00046
+    N00034
+    M5_OUT1B
+    M5_OUT1A
+    N00030
+    N00019
+    N00024
+    N00023
+    N00020
+    N00026
+    N00022
+    M4_OUT2B
+    M4_OUT2A
+    M4_OUT1A
+    M4_OUT1B
+    N00021
+    N00025
+    N00039
+    N00035
+    N00036
+    N00028
+    N00027
+    N00033
+    N00031
+    N00032
+    M5_OUT2A
+    N00029
+    M5_OUT2B
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC3
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    VCCIO_ENAB
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    P3_3V
+    DGND
+    P5V
+
+Reporting Net Names
+    N00016
+    N00123
+    N00017
+    N00124
+    N00018
+    N00019
+    N00020
+    N00127
+    N00021
+    N00022
+    N00128
+    N00131
+    N00030
+    N00032
+    N00134
+    N00033
+    N00141
+    VCCIO_ENAB
+    N00007
+    N00008
+    N00009
+    N00010
+    N00011
+    N00012
+    N00013
+    N00119
+    N00120
+    N00014
+    N00015
+    ANA_3+
+    PIVOT_B-
+    END_A+
+    RESVD_5N
+    PIVOT_A-
+    P5V
+    END_B+
+    DGND
+    BASE_A-
+    BASE_A+
+    ROTATE_A+
+    END_B-
+    ROTATE_B-
+    RESVD_13P
+    P3_3V
+    N00031
+    ANA_1-
+    PIVOT_B+
+    N00143
+    ANA_2-
+    ANGLE_A+
+    ANA_1+
+    BASE_B+
+    ANGLE_A-
+    RESVD_13N
+    ROTATE_A-
+    END_A-
+    ANA_4-
+    ANGLE_B+
+    ROTATE_B+
+    ANA_3-
+    ANGLE_B-
+    BASE_B-
+    RESVD_5P
+    ANA_2+
+    PIVOT_A+
+    ANA_4+
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC4
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    M3_SLP
+    M4_SLP
+    M5_SLP
+    POWERGOOD_5V
+    M1_MS1
+    M1_DIR
+    POWERGOOD_3V
+    M5_STEP
+    M2_MS1
+    M2_DIR
+    M1_MS2
+    M4_STEP
+    M3_MS1
+    M3_DIR
+    M2_MS2
+    M1_MS3
+    M4_MS1
+    M4_DIR
+    M3_MS2
+    M3_STEP
+    M2_MS3
+    M5_MS1
+    M5_EN
+    M5_DIR
+    M4_MS2
+    M3_MS3
+    M2_STEP
+    M5_MS2
+    M4_EN
+    M4_MS3
+    M1_STEP
+    M5_MS3
+    M3_EN
+    M1_RST
+    M2_EN
+    M2_RST
+    M3_RST
+    M1_EN
+    M4_RST
+    M5_RST
+    M1_SLP
+    M2_SLP
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    P3_3V
+    DGND
+    P5V
+
+Reporting Net Names
+    M2_RST
+    Alternate Name:  PIVOT_RST
+    M2_SLP
+    Alternate Name:  PIVOT_SLP
+    AUX1_N
+    M2_EN
+    Alternate Name:  PIVOT_EN
+    P3_3V
+    AUX2_P
+    M3_MS1
+    Alternate Name:  END_MS1
+    M1_SLP
+    Alternate Name:  BASE_SLP
+    M2_MS1
+    Alternate Name:  PIVOT_MS1
+    M1_EN
+    Alternate Name:  BASE_EN
+    AUX2_N
+    M3_MS2
+    Alternate Name:  END_MS2
+    AUX3_N
+    M5_DIR
+    Alternate Name:  ROTATE_DIR
+    M1_MS1
+    Alternate Name:  BASE_MS1
+    M5_MS2
+    Alternate Name:  ROTATE_MS2
+    N00112
+    N00085
+    N00086
+    M1_MS2
+    Alternate Name:  BASE_MS2
+    M1_MS3
+    Alternate Name:  BASE_MS3
+    N00087
+    M1_RST
+    Alternate Name:  BASE_RST
+    N00114
+    N00088
+    AUX1_P
+    M2_MS2
+    Alternate Name:  PIVOT_MS2
+    DGND
+    M2_MS3
+    Alternate Name:  PIVOT_MS3
+    M4_MS3
+    Alternate Name:  ANGLE_MS3
+    M3_STEP
+    Alternate Name:  END_STEP
+    N00105
+    M3_DIR
+    Alternate Name:  END_DIR
+    N00083
+    N00106
+    M4_EN
+    Alternate Name:  ANGLE_EN
+    M4_STEP
+    Alternate Name:  ANGLE_STEP
+    N00107
+    M5_SLP
+    Alternate Name:  ROTATE_SLP
+    N00108
+    M4_DIR
+    Alternate Name:  ANGLE_DIR
+    N00109
+    M5_STEP
+    Alternate Name:  ROTATE_STEP
+    N00110
+    N00084
+    M3_SLP
+    Alternate Name:  END_SLP
+    M3_EN
+    Alternate Name:  END_EN
+    M5_RST
+    Alternate Name:  ROTATE_RST
+    N00073
+    P5V
+    M1_STEP
+    Alternate Name:  BASE_STEP
+    M4_MS2
+    Alternate Name:  ANGLE_MS2
+    M2_STEP
+    Alternate Name:  PIVOT_STEP
+    AUX3_P
+    M5_EN
+    Alternate Name:  ROTATE_EN
+    M4_SLP
+    Alternate Name:  ANGLE_SLP
+    AUX4_N
+    M5_MS3
+    Alternate Name:  ROTATE_MS3
+    M1_DIR
+    Alternate Name:  BASE_DIR
+    AUX4_P
+    M2_DIR
+    Alternate Name:  PIVOT_DIR
+    N00097
+    N00098
+    N00099
+    N00100
+    M5_MS1
+    Alternate Name:  ROTATE_MS1
+    N00101
+    N00102
+    M4_MS1
+    Alternate Name:  ANGLE_MS1
+    POWERGOOD_3V
+    POWERGOOD_5V
+    M4_RST
+    Alternate Name:  ANGLE_RST
+    M3_MS3
+    Alternate Name:  END_MS3
+    N00103
+    M3_RST
+    Alternate Name:  END_RST
+    N00104
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC5
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+WARNING:  [DRC0006]  Net has fewer than two connections P33V
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    M1_DIR
+    M1_MS1
+    M1_MS2
+    M1_OUT2A
+    M1_MS3
+    M1_OUT2B
+    M1_OUT1A
+    M1_OUT1B
+    M1_STEP
+    M1_RST
+    M1_EN
+    M1_SLP
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    MGND
+    P33V
+    P3_3V
+
+Reporting Net Names
+    N00035
+    M1_OUT2B
+    P3_3V
+    N00040
+    M1_MS2
+    M1_MS3
+    M1_MS1
+    M1_RST
+    M1_SLP
+    M1_EN
+    M1_DIR
+    M1_STEP
+    M1_OUT1A
+    M1_PWR
+    MGND
+    P33V
+    M1_OUT1B
+    N00026
+    N00027
+    N00029
+    N00042
+    N00041
+    N00033
+    M1_OUT2A
+    N00053
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC6
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+WARNING:  [DRC0006]  Net has fewer than two connections P33V
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    M2_DIR
+    M2_MS1
+    M2_MS2
+    M2_OUT2A
+    M2_MS3
+    M2_OUT2B
+    M2_OUT1A
+    M2_STEP
+    M2_OUT1B
+    M2_EN
+    M2_RST
+    M2_SLP
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    MGND
+    P33V
+    P3_3V
+
+Reporting Net Names
+    M2_MS2
+    N00047
+    N00024
+    P3_3V
+    M2_OUT2A
+    M2_OUT2B
+    M2_EN
+    N00025
+    M2_MS3
+    M2_RST
+    M2_SLP
+    N00031
+    N00034
+    M2_DIR
+    N00038
+    M2_STEP
+    N00039
+    N00040
+    N00041
+    M2_MS1
+    M2_PWR
+    MGND
+    P33V
+    M2_OUT1A
+    M2_OUT1B
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC7
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+WARNING:  [DRC0006]  Net has fewer than two connections P33V
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    M3_SLP
+    M3_DIR
+    M3_MS1
+    M3_OUT2A
+    M3_STEP
+    M3_MS2
+    M3_OUT2B
+    M3_OUT1A
+    M3_MS3
+    M3_OUT1B
+    M3_EN
+    M3_RST
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    MGND
+    P33V
+    P3_3V
+
+Reporting Net Names
+    M3_DIR
+    M3_EN
+    N00025
+    M3_OUT2B
+    P33V
+    N00044
+    N00032
+    N00046
+    M3_SLP
+    M3_MS3
+    M3_OUT2A
+    M3_MS2
+    M3_STEP
+    MGND
+    M3_RST
+    M3_MS1
+    N00034
+    M3_OUT1B
+    P3_3V
+    N00045
+    N00026
+    M3_OUT1A
+    M3_PWR
+    N00683
+    N00039
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC8
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+WARNING:  [DRC0006]  Net has fewer than two connections P33V
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    M4_SLP
+    M4_STEP
+    M4_DIR
+    M4_MS1
+    M4_OUT2A
+    M4_MS2
+    M4_OUT2B
+    M4_OUT1A
+    M4_EN
+    M4_MS3
+    M4_OUT1B
+    M4_RST
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    MGND
+    P33V
+    P3_3V
+
+Reporting Net Names
+    M4_RST
+    M4_SLP
+    M4_EN
+    N00044
+    M4_DIR
+    M4_STEP
+    N00045
+    N00046
+    MGND
+    P33V
+    M4_OUT1A
+    P3_3V
+    N00032
+    M4_OUT1B
+    M4_OUT2A
+    M4_OUT2B
+    N00025
+    N00034
+    N00038
+    N00040
+    M4_MS1
+    M4_MS2
+    N00026
+    M4_MS3
+    M4_PWR
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC9
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+WARNING:  [DRC0006]  Net has fewer than two connections P33V
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    M5_SLP
+    M5_STEP
+    M5_DIR
+    M5_EN
+    M5_MS1
+    M5_OUT2A
+    M5_MS2
+    M5_OUT2B
+    M5_OUT1A
+    M5_MS3
+    M5_OUT1B
+    M5_RST
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    MGND
+    P33V
+    P3_3V
+
+Reporting Net Names
+    M5_OUT2B
+    M5_MS2
+    N00034
+    M5_MS3
+    M5_RST
+    M5_SLP
+    N00032
+    P33V
+    N00026
+    N00040
+    M5_DIR
+    N00042
+    P3_3V
+    M5_STEP
+    N00025
+    N00046
+    N00047
+    M5_EN
+    N00048
+    M5_OUT1A
+    M5_MS1
+    M5_OUT1B
+    M5_OUT2A
+    M5_PWR
+    MGND
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC10
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    P35v
+    POWERGOOD_5V
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    DGND
+    P5V
+
+Reporting Net Names
+    P5V
+    N00013
+    N00012
+    N00017
+    N00018
+    POWERGOOD_5V
+    N00023
+    N00029
+    DGND
+    N00031
+    P35V
+    Alternate Name:  P35v
+    N00010
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC11
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    P35v
+    POWERGOOD_3V
+    SEQUENCE
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    P3_3V
+    DGND
+
+Reporting Net Names
+    N00050
+    N00009
+    P35V
+    Alternate Name:  P35v
+    DGND
+    POWERGOOD_3V
+    N00028
+    N00033
+    N00019
+    P3_3V
+    SEQUENCE
+    N00004
+    N00007
+    N00005
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC12
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    P20v
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    MGND
+    ESDGND
+    DGND
+
+Reporting Net Names
+    N00032
+    N00035
+    N00018
+    ESDGND
+    MGND
+    DGND
+    N00036
+    P20V
+    Alternate Name:  P20v
+    N00022
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC13
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+WARNING:  [DRC0006]  Net has fewer than two connections P5V
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    P35V_GOOD
+    MAINBUS
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    MGND
+    PMOTOR
+    P5V
+
+Reporting Net Names
+    N02490
+    N02486
+    MGND
+    N00006
+    N00007
+    N00393
+    N00008
+    PMOTOR
+    N06254
+    N03723
+    N00537
+    N03719
+    N05508
+    N01683
+    N00534
+    N01687
+    N00214
+    N01697
+    P35V_GOOD
+    MAINBUS
+    P5V
