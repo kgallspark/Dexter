@@ -1,0 +1,8 @@
+##############################################################################
+## Filename:          C:/ShareRoot/NGPP1/pcores/azido_to_axi_v1_00_a/data/azido_to_axi_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Wed Jan 16 14:53:26 2013 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib azido_to_axi_v1_00_a azido_to_axi vhdl

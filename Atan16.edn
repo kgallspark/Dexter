@@ -1,0 +1,35 @@
+    (cell atan16
+      (cellType GENERIC)
+        (view net
+          (viewType NETLIST)
+          (interface
+            (port rfd
+              (direction OUTPUT)
+            )
+            (port rdy
+              (direction OUTPUT)
+            )
+            (port nd
+              (direction INPUT)
+            )
+            (port clk
+              (direction INPUT)
+            )
+            (port (array (rename y_in "y_in(15:0)") 16)
+              (direction INPUT))
+            (port (array (rename phase_out "phase_out(15:0)") 16)
+              (direction OUTPUT))
+            (port (array (rename x_in "x_in(15:0)") 16)
+              (direction INPUT))
+            (designator "3s4000fg676-5")
+            (property BUS_INFO (string "16:INPUT:y_in<15:0>") (owner "Xilinx"))
+            (property BUS_INFO (string "16:OUTPUT:phase_out<15:0>") (owner "Xilinx"))
+            (property BUS_INFO (string "16:INPUT:x_in<15:0>") (owner "Xilinx"))
+            (property TYPE (string "atan16") (owner "Xilinx"))
+            (property X_CORE_INFO (string "cordic_v4_0, Xilinx CORE Generator 12.4") (owner "Xilinx"))
+            (property NLW_UNIQUE_ID (integer 0) (owner "Xilinx"))
+            (property NLW_MACRO_TAG (integer 0) (owner "Xilinx"))
+            (property NLW_MACRO_ALIAS (string "atan16_atan16") (owner "Xilinx"))
+          )
+))
+

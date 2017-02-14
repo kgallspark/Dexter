@@ -1,0 +1,9 @@
+VIVA 2.53 Implementation Independent Algorithm Description Language
+// Sheet
+
+Object Atan16
+//_Attributes WipSheet
+{
+	Object (Bit rfd, Bit rdy, MSB016 phase_out) atan16 (Bit nd, Bit clk, MSB016 y_in, MSB016 x_in); //_GUI 85, 25
+	//_Attributes Primitive,System=PEn,Resource=Generic,EdifFile=C:\ShareRoot\VivaProjects\Botomaton\Atan16.edn,LibRef=atan16
+}

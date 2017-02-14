@@ -1,0 +1,11 @@
+-batch 
+-create azido_to_axi 
+-ver 1.00.a 
+-dir "C:\ShareRoot\NGPP1" 
+-lang vhdl 
+-bus axi4 ms 
+-burst m 32 
+-axi4_opt len_wid 12 
+-reg 8 
+-xps 
+-driver 
