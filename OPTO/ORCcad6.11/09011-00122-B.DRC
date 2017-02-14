@@ -1,0 +1,65 @@
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+
+Reporting Net Names
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC2
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    DGND
+    P3_3
+
+Reporting Net Names
+    N00734
+    N05822
+    M1_P1B+
+    N04658
+    N00611
+    N00625
+    N01059
+    N00623
+    M1_P1A+
+    DGND
+    P3_3
+    N04786
+    N04931
